@@ -93,10 +93,10 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Designer
+    <Design width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
+I am busy making innovative, fast and secure sites..
 </Description>
 <Description>
 <strong>I like to Design</strong>
@@ -105,15 +105,15 @@ I love to create design which speaks, Keep it clean, minimal and simple.
         Web Design
     </li>
     <li>
-        Mobile Apps
+        dApps
     </li>
 </ul>
 </Description>
 <Description>
-<strong>Tools</strong>
+<strong>Skills</strong>
 <ul>
     <li>
-       Figma
+       Reactjs, Nextjs, web3js,Solidity, Redux, Tailwind, Bootstrap, Sass, Html, Css, Js etc.
     </li>
     
 </ul>
@@ -122,7 +122,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Backend Developer
 </Title>
 <Description>
 I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
@@ -130,7 +130,7 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Nodejs, Expressjs,Redis,SQL, MongoDB, Mongoose, Firebase Vercel, AWS etc.
 </p>
 </Description>
 <Description>
